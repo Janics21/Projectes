@@ -1,0 +1,147 @@
+{
+    "Search": [
+        {
+            "Title": "The Avengers",
+            "Year": "2012",
+            "imdbID": "tt0848228",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNGE0YTVjNzUtNzJjOS00NGNlLTgxMzctZTY4YTE1Y2Y1ZTU4XkEyXkFqcGc@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Avengers: Endgame",
+            "Year": "2019",
+            "imdbID": "tt4154796",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Avengers: Infinity War",
+            "Year": "2018",
+            "imdbID": "tt4154756",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Avengers: Age of Ultron",
+            "Year": "2015",
+            "imdbID": "tt2395427",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BODBhYTg1NGQtNGVmNS00ZTdiLThjYTYtZDFkNzRiNTZmNDZjXkEyXkFqcGc@._V1_SX300.jpg"
+        },
+        {
+            "Title": "The Avengers",
+            "Year": "1998",
+            "imdbID": "tt0118661",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZTA4ZmZlZWQtZDRlYS00ZWZhLTk0MzEtYjExMGIzMTBlZDNlXkEyXkFqcGc@._V1_SX300.jpg"
+        },
+        {
+            "Title": "The Avengers: Earth's Mightiest Heroes",
+            "Year": "2010–2024",
+            "imdbID": "tt1626038",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BY2NkYTNlMTQtZWVjNC00MTk4LTkzNGEtYjAyOTYxYWFjYTVkXkEyXkFqcGc@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Ultimate Avengers: The Movie",
+            "Year": "2006",
+            "imdbID": "tt0491703",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyMjk0NTMwMl5BMl5BanBnXkFtZTgwNzY0NjAwNzE@._V1_SX300.jpg"
+        },
+        {
+            "Title": "The Avengers",
+            "Year": "1961–1969",
+            "imdbID": "tt0054518",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMDhhYWIxMzYtNTY2Zi00MTZiLWI2ZDUtYjNiNTY5YzA5MWNkXkEyXkFqcGc@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Avengers Assemble",
+            "Year": "2012–2019",
+            "imdbID": "tt2455546",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTY0NTUyMDQwOV5BMl5BanBnXkFtZTgwNjAwMTA0MDE@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Ultimate Avengers II",
+            "Year": "2006",
+            "imdbID": "tt0803093",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZjI3MTI5ZTYtZmNmNy00OGZmLTlhNWMtNjZiYmYzNDhlOGRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Black Panther",
+            "Year": "2018",
+            "imdbID": "tt1825683",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Black Panther: Wakanda Forever",
+            "Year": "2022",
+            "imdbID": "tt9114286",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYWY5NDY1ZjItZDQxMy00MTAzLTgyOGQtNTQxYjFiMzZjMjUyXkEyXkFqcGc@._V1_SX300.jpg"
+        },
+        {
+            "Title": "The Pink Panther",
+            "Year": "2006",
+            "imdbID": "tt0383216",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZTE2ODdmMTktNmEwMy00ZDZmLWJmNDAtYTEyN2FjYjcwM2M1XkEyXkFqcGc@._V1_SX300.jpg"
+        },
+        {
+            "Title": "The Pink Panther",
+            "Year": "1963",
+            "imdbID": "tt0057413",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNzg5NTYzNDI4OF5BMl5BanBnXkFtZTcwOTQxMTMyNA@@._V1_SX300.jpg"
+        },
+        {
+            "Title": "The Pink Panther 2",
+            "Year": "2009",
+            "imdbID": "tt0838232",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTIyOTI2ODY2MF5BMl5BanBnXkFtZTcwMzU2MTYxMg@@._V1_SX300.jpg"
+        },
+        {
+            "Title": "The Pink Panther Strikes Again",
+            "Year": "1976",
+            "imdbID": "tt0075066",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMzdhZDYxYjktYjdhOS00MDAyLTk3YjgtNTc5ZmVmYmVjMjJiXkEyXkFqcGc@._V1_SX300.jpg"
+        },
+        {
+            "Title": "The Return of the Pink Panther",
+            "Year": "1975",
+            "imdbID": "tt0072081",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZTFkNDljYjgtZmQ3NS00MDkxLTk3OGItNzZlZTgxZTAzN2JlXkEyXkFqcGc@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Revenge of the Pink Panther",
+            "Year": "1978",
+            "imdbID": "tt0078163",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZTljNmI0NTEtMTdhOC00N2ZjLTllMDItZWEyOTAxNzFkM2I3XkEyXkFqcGc@._V1_SX300.jpg"
+        },
+        {
+            "Title": "The Pink Panther Show",
+            "Year": "1969–1970",
+            "imdbID": "tt0063939",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOGFkZjA0ZjItOGQ3Yi00NjYwLWJlNTctNzI3ODZiNWExZmQ1XkEyXkFqcGc@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Trail of the Pink Panther",
+            "Year": "1982",
+            "imdbID": "tt0084814",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTkwMDQ3NTM1N15BMl5BanBnXkFtZTcwODgyMTM4NA@@._V1_SX300.jpg"
+        }
+    ],
+    "totalResults": "367",
+    "Response": "True"
+
+}

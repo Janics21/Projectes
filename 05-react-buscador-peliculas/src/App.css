@@ -13,21 +13,19 @@ main {
   width: 100%;
 }
 
-form {
-  align-items: center;
+main {
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .movies {
   list-style: none;
   margin: 0;
   padding: 0;
-
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
- 
   width: 100%;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 32px;
 }
 
@@ -35,11 +33,11 @@ form {
   text-align: center;
 }
 
-.movie h3, .movie p {
+.movie h2 .movie p {
   margin: 0;
 }
 
-.movie img {
+.movies img {
   border-radius: 8px;
-  margin-top: 16px;
+  margin-top: 8px;
 }
